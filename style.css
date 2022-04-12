@@ -1,0 +1,26 @@
+body {
+  background: blue;
+  color: yellow;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+button {
+  background: green;
+  color: blue;
+  height: 40px;
+  width: 200px;
+  font-size: 24px;
+  font-family: Merriweather;
+}
+
+#img {
+  height: 300px;
+  width:300px;
+}
+
+#fortune {
+  font-size: 26px;
+  color: yellow;
+  font-family: sans-serif;
+}
