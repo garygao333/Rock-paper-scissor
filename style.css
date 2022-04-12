@@ -1,0 +1,35 @@
+body {
+  background: blue;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+#h0 {
+  color: yellow;
+}
+#h1{
+  height: 200px;
+  width: 250px;
+}
+
+#h2 {
+  height: 300px;
+  width: 200px;
+}
+
+#h3 {
+  height: 200px;
+  width: 200px;
+}
+
+#p {
+  font-size: 36px;
+  color: yellow;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+#p1 {
+  font-family: Roboto;
+}
